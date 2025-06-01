@@ -1,5 +1,8 @@
 /* IA Writer-inspired Dark Theme */
 
+/* iA Writer Mono Font from Fontsource */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +10,7 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'IBM Plex Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
     background-color: #1a1a1a;
     color: #b3b3b3;
     line-height: 1.6;
@@ -120,7 +123,7 @@ body {
 /* Typography */
 .story-content h1 {
     font-size: 32px;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 40px;
     color: #e6e6e6;
     line-height: 1.3;
@@ -128,7 +131,7 @@ body {
 
 .story-content h2 {
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 700;
     margin: 40px 0 20px 0;
     color: #e6e6e6;
     line-height: 1.4;
@@ -136,7 +139,7 @@ body {
 
 .story-content h3 {
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 700;
     margin: 30px 0 15px 0;
     color: #e6e6e6;
     line-height: 1.4;
@@ -160,7 +163,7 @@ body {
     color: #fff;
     padding: 2px 6px;
     border-radius: 3px;
-    font-family: 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
+    font-family: 'IBM Plex Mono', 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
     font-size: 16px;
 }
 
@@ -285,4 +288,4 @@ html {
 ::-moz-selection {
     background-color: #4a9eff;
     color: #000;
-} 
+}

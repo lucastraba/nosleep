@@ -22,6 +22,15 @@ class StoryReader {
         this.toggleBtn = document.getElementById('toggleBtn');
         this.menuToggle = document.getElementById('menuToggle');
         
+        // Debug: Check if all elements are found
+        console.log('Elements found:', {
+            sidebar: !!this.sidebar,
+            content: !!this.content,
+            storyList: !!this.storyList,
+            toggleBtn: !!this.toggleBtn,
+            menuToggle: !!this.menuToggle
+        });
+        
         this.init();
     }
 
@@ -32,6 +41,8 @@ class StoryReader {
     }
 
     populateStoryList() {
+        if (!this.storyList) return;
+        
         this.storyList.innerHTML = '';
         
         STORIES.forEach(story => {
@@ -54,14 +65,24 @@ class StoryReader {
 
     setupEventListeners() {
         // Menu toggle button (always visible)
-        this.menuToggle.addEventListener('click', () => {
-            this.toggleSidebar();
-        });
+        if (this.menuToggle) {
+            this.menuToggle.addEventListener('click', (e) => {
+                console.log('Menu toggle clicked');
+                e.preventDefault();
+                e.stopPropagation();
+                this.toggleSidebar();
+            });
+        }
 
         // Close button inside sidebar
-        this.toggleBtn.addEventListener('click', () => {
-            this.closeSidebar();
-        });
+        if (this.toggleBtn) {
+            this.toggleBtn.addEventListener('click', (e) => {
+                console.log('Close button clicked');
+                e.preventDefault();
+                e.stopPropagation();
+                this.closeSidebar();
+            });
+        }
 
         // Close sidebar when clicking outside
         document.addEventListener('click', (e) => {
@@ -151,6 +172,8 @@ class StoryReader {
     }
 
     updateActiveStory(filename) {
+        if (!this.storyList) return;
+        
         // Remove active class from all links
         this.storyList.querySelectorAll('a').forEach(a => {
             a.classList.remove('active');
@@ -166,6 +189,7 @@ class StoryReader {
     }
 
     toggleSidebar() {
+        console.log('Toggling sidebar, current state:', this.sidebar.classList.contains('open'));
         if (this.sidebar.classList.contains('open')) {
             this.closeSidebar();
         } else {
@@ -174,11 +198,13 @@ class StoryReader {
     }
 
     openSidebar() {
+        console.log('Opening sidebar');
         this.sidebar.classList.add('open');
         this.addOverlay();
     }
 
     closeSidebar() {
+        console.log('Closing sidebar');
         this.sidebar.classList.remove('open');
         this.removeOverlay();
     }
@@ -204,6 +230,7 @@ class StoryReader {
 
 // Initialize the story reader when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
+    console.log('DOM loaded, initializing StoryReader');
     new StoryReader();
 });
 
