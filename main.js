@@ -20,6 +20,7 @@ class StoryReader {
         this.content = document.getElementById('storyContent');
         this.storyList = document.getElementById('storyList');
         this.toggleBtn = document.getElementById('toggleBtn');
+        this.menuToggle = document.getElementById('menuToggle');
         
         this.init();
     }
@@ -43,7 +44,7 @@ class StoryReader {
                 e.preventDefault();
                 this.loadStory(story.filename);
                 this.updateURL(story.filename);
-                this.closeMobileSidebar();
+                this.closeSidebar();
             });
             
             li.appendChild(a);
@@ -52,17 +53,22 @@ class StoryReader {
     }
 
     setupEventListeners() {
-        // Mobile menu toggle
-        this.toggleBtn.addEventListener('click', () => {
-            this.toggleMobileSidebar();
+        // Menu toggle button (always visible)
+        this.menuToggle.addEventListener('click', () => {
+            this.toggleSidebar();
         });
 
-        // Close sidebar when clicking outside on mobile
+        // Close button inside sidebar
+        this.toggleBtn.addEventListener('click', () => {
+            this.closeSidebar();
+        });
+
+        // Close sidebar when clicking outside
         document.addEventListener('click', (e) => {
-            if (window.innerWidth <= 768 && 
-                !this.sidebar.contains(e.target) && 
+            if (!this.sidebar.contains(e.target) && 
+                !this.menuToggle.contains(e.target) &&
                 this.sidebar.classList.contains('open')) {
-                this.closeMobileSidebar();
+                this.closeSidebar();
             }
         });
 
@@ -71,10 +77,10 @@ class StoryReader {
             this.loadFromURL();
         });
 
-        // Handle window resize
-        window.addEventListener('resize', () => {
-            if (window.innerWidth > 768) {
-                this.closeMobileSidebar();
+        // Handle escape key to close sidebar
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.sidebar.classList.contains('open')) {
+                this.closeSidebar();
             }
         });
     }
@@ -137,8 +143,8 @@ class StoryReader {
     showWelcome() {
         this.content.innerHTML = `
             <div class="loading">
-                <h2 style="color: #fff; margin-bottom: 20px;">Welcome</h2>
-                <p>Select a story from the sidebar to begin reading.</p>
+                <h2 style="color: #e6e6e6; margin-bottom: 20px;">Welcome</h2>
+                <p>Click the menu button (☰) in the top-left to select a story.</p>
             </div>
         `;
         this.updateActiveStory(null);
@@ -159,18 +165,20 @@ class StoryReader {
         }
     }
 
-    toggleMobileSidebar() {
-        this.sidebar.classList.toggle('open');
-        
-        // Add overlay
+    toggleSidebar() {
         if (this.sidebar.classList.contains('open')) {
-            this.addOverlay();
+            this.closeSidebar();
         } else {
-            this.removeOverlay();
+            this.openSidebar();
         }
     }
 
-    closeMobileSidebar() {
+    openSidebar() {
+        this.sidebar.classList.add('open');
+        this.addOverlay();
+    }
+
+    closeSidebar() {
         this.sidebar.classList.remove('open');
         this.removeOverlay();
     }
@@ -180,7 +188,7 @@ class StoryReader {
             const overlay = document.createElement('div');
             overlay.className = 'overlay show';
             overlay.addEventListener('click', () => {
-                this.closeMobileSidebar();
+                this.closeSidebar();
             });
             document.body.appendChild(overlay);
         }
