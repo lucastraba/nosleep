@@ -1,7 +1,37 @@
 /* IA Writer-inspired Dark Theme */
 
-/* iA Writer Mono Font from Fontsource */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* iA Writer Mono Font - Local Files */
+@font-face {
+    font-family: 'iA Writer Mono';
+    src: url('./fonts/iAWriterMonoS-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Mono';
+    src: url('./fonts/iAWriterMonoS-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Mono';
+    src: url('./fonts/iAWriterMonoS-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Mono';
+    src: url('./fonts/iAWriterMonoS-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
 
 * {
     margin: 0;
@@ -10,7 +40,7 @@
 }
 
 body {
-    font-family: 'IBM Plex Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+    font-family: 'iA Writer Mono', 'IBM Plex Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
     background-color: #1a1a1a;
     color: #b3b3b3;
     line-height: 1.6;
@@ -163,7 +193,7 @@ body {
     color: #fff;
     padding: 2px 6px;
     border-radius: 3px;
-    font-family: 'IBM Plex Mono', 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
+    font-family: 'iA Writer Mono', 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
     font-size: 16px;
 }
 
