@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stories</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Sidebar -->
+        <nav class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h2>Stories</h2>
+                <button class="toggle-btn" id="toggleBtn">☰</button>
+            </div>
+            <ul class="story-list" id="storyList">
+                <!-- Stories will be populated by JavaScript -->
+            </ul>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="content" id="content">
+            <div class="story-container">
+                <div class="story-content" id="storyContent">
+                    <div class="loading">Select a story to begin reading...</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html> 
