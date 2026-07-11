@@ -2,7 +2,7 @@
 
 I don't really know how to do this, to be honest. I've been a user of Reddit for some time now, but I haven't posted much here. There has never been much to post. But an acquaintance pointed me to this subreddit when I told him what happened to me. He said it could help, and I need help. I desperately need help.
 
-You see, when I say I never had much reason to post here, it's because my life was as boring as it gets. I'm a software engineer. Wake up at 7 AM, write Typescript code for 12 hours, grind some game mindlessly until my eyes hurt, order food because I can't cook for shit, go to bed — rinse and repeat. The weekends weren't any better. Mostly binge-watching YouTube videos about productivity while my robot vacuum did laps around me, time-boxing my next weekend, and ignoring the time boxes I set up the previous week.
+You see, when I say I never had much reason to post here, it's because my life was as boring as it gets. I'm a software engineer. Wake up at 7 AM, write Typescript code for 12 hours, grind some game mindlessly until my eyes hurt, order food because I can't cook for shit, go to bed, rinse and repeat. The weekends weren't any better. Mostly binge-watching YouTube videos about productivity while my robot vacuum did laps around me, time-boxing my next weekend, and ignoring the time boxes I set up the previous week.
 
 I know, lame.
 
@@ -30,7 +30,7 @@ The next day started just as predicted. Wake up, morning coffee, drive. And I wa
 
 I was halfway through Kansas when it happened.
 
-You know? It's kinda funny. I'm a big fan of Euro Truck Simulator. It's my cozy game of choice. I remember one time I was listening to a podcast and driving my virtual truck, and I needed to smoke. So I let go of the controller with one hand, put the cig in my mouth, switched to the lighter, struck it, and I guess I must have looked at the flame for just a moment too long, because when I looked back up, my truck was swerving to the side. I quickly dropped the lighter and rushed to push the controller stick in the other direction, and overcompensated. Ended up crashing. I remember distinctly thinking, "damn... so this is why they tell you not to take your eyes off the road..."
+You know? It's kinda funny. I'm a big fan of Euro Truck Simulator. It's my cozy game of choice. I remember one time I was listening to a podcast and driving my virtual truck, and I needed to smoke. So I let go of the controller with one hand, put the cig in my mouth, switched to the lighter, struck it, and I guess I must have looked at the flame for just a moment too long, because when I looked back up, my truck was swerving to the side. I quickly dropped the lighter and rushed to push the controller stick in the other direction, and overcompensated. Ended up crashing. I remember distinctly thinking, "damn... so *this* is why they tell you not to take your eyes off the road..."
 
 In real life, it takes a lot less than that.
 
@@ -52,7 +52,7 @@ I didn't understand it at the time, though. Again, you think that you'll know wh
 
 The darkness consumed me, and, for a moment, there was nothing. There was no pain, no panic, no existential horror, there was absolutely nothing. I would say it was like a dreamless sleep, but that would be misleading, because when you go to sleep, time skips forward. I was completely "conscious" in this moment of nothingness. I was experiencing it.
 
-And then there was something again. It was as if I were waking up from a dream. You know how when you're dreaming you feel that it is absolutely real, and then you wake up, and you're like, "no, OK, now this is absolutely real"? Well, it was kind of like that, only the "dream" was what was going on below me.
+And then there was something again. It was as if I were waking up from a dream. You know how when you're dreaming you feel that it is absolutely real, and then you wake up, and you're like, "no, OK, now *this* is absolutely real"? Well, it was kind of like that, only the "dream" was what was going on below me.
 
 Let me make something clear here. A lot of what I'm going to describe now will probably be inaccurate. This is because what I experienced in that moment cannot be described with words in any way that remotely does it justice.
 
@@ -64,7 +64,7 @@ My left arm bent in a way no extremity should ever bend. The left side of my abd
 
 Some were excited. Some were annoyed. Some were upset.
 
-I could hear their conversations with their families and friends inside, so clearly, as if I were in the cars with them. "Fuck, man, we're gonna be late. Meredith's gonna be pissed," one man said to another man in the passenger seat. His name was Mark. The man on the passenger seat was Jacob. I knew them. I knew all about them, their lives, their struggles. I felt Mark's annoyance, and Jacob's mild disguised amusement. I knew Mark's wife, Meredith. I remembered all their moments together. I somehow had... experienced all their ups and downs. I knew our... their marriage was hanging by a thread. I... Jacob had never approved of Meredith. We... he thought marriage was a terrible idea. Giving up so much in return for so little... It always ended up badly.
+I could hear their conversations with their families and friends inside, so clearly, as if I were in the cars with them. "Fuck, man, we're gonna be late. Meredith's gonna be pissed," one man said to another man in the passenger seat. His name was Mark. The man on the passenger seat was Jacob. I knew them. I knew all about them, their lives, their struggles. I felt Mark's annoyance, and Jacob's mildly disguised amusement. I knew Mark's wife, Meredith. I remembered all their moments together. I somehow had... experienced all their ups and downs. I knew our... their marriage was hanging by a thread. I... Jacob had never approved of Meredith. We... he thought marriage was a terrible idea. Giving up so much in return for so little... It always ended up badly.
 
 I was Jacob. I was Mark, and I was Meredith. I was, I always had been, and I would always be them. Hell, for all I knew, I would be them again. Over and over.
 
@@ -80,7 +80,7 @@ And, below, the paramedics kept trying to bring me back. Time moved in slow moti
 
 I then looked at myself, and saw my life unfold before my eyes. I had read of that concept before. Your typical Near-Death Experience, but I don't think those accounts do it any justice. This "flashing before the eyes" that people describe is not exactly linear. It's not like a fast-forwarding movie, or a YouTube video in 900x, because that explanation still is tied to the existence of time.
 
-When I "looked" at myself, it was more like I willed my perception to experience the collection of instants that pertained to that particular physical entity that had been — and still was — "me," in their rawest form, without the imperfections of the physical senses or the subjective judgement of human experience.
+When I "looked" at myself, it was more like I willed my perception to experience the collection of instants that pertained to that particular physical entity that had been, and still was, "me," in their rawest form, without the imperfections of the physical senses or the subjective judgement of human experience.
 
 I spent millennia looking at my mother smile at me in her arms when I was a baby. I stared at the sunset at the beach as a kid for eons. I awkwardly kissed my first girlfriend for all eternity. I felt happiness, pain, love, fear, optimism, anxiety, liberation, humiliation, and it all felt... normal.
 
@@ -92,15 +92,15 @@ There was no difference between those moments and the moments I had experienced 
 
 That experience seemed to unlock some sort of insight in whatever I was or was becoming, because I realized that what was below was not all there was. So I looked "above" me. And by "above me," I mean to another place. What I describe as "below" me here was the moment of my death, the moments before it, the moments after, and all moments throughout the universe. "Above me" was outside that universe. It was outside reality.
 
-Trying to convey it is impossible. It's as if I told you to look to stand in a room, look to your left, look to your right, look up, down, and then I told you, "now, look in a different direction," and you realized you could, and you saw yet another perspective of the room. But it didn't feel like just another dimension. That interpretation is maybe the one I would have had back when I was "below." Now, it was just the way things were. That direction was now on the menu, alongside down, up, left, and right.
+It's as if I told you to stand in a room, look to your left, look to your right, look up, down, and then I told you, "now, look in a different direction," and you realized you could, and you saw yet another perspective of the room. But it didn't feel like just another dimension. That interpretation is maybe the one I would have had back when I was "below." Now, it was just the way things were. That direction was now on the menu, alongside down, up, left, and right.
 
-What I saw when I looked above is also hard to explain. When I think back, I am flooded with a sense of awe and terror, like trying to imagine the edges of the universe, infinity, or nothingness. Things that are too vast for the human mind to conceive. But, at the time, the feeling was the same as looking below.
+When I think back on what I saw above me, I am flooded with a sense of awe and terror, like trying to imagine the edges of the universe, infinity, or nothingness. Things that are too vast for the human mind to conceive. But, at the time, the feeling was the same as looking below.
 
 There were these... beings, for lack of a better word. I would say they were made of light, but they were not. Maybe they were not even beings at all. There weren't a lot of them, but they seemed to exist everywhere at once, so when I try to remember them, it seems like there were billions, trillions, maybe an infinite number of them. But at the time, my certainty is that there were not that many.
 
 They were moving through space and time, seemingly observing the realm below. They were much further away from it than I was, but I noticed that I was slowly "floating" towards them. It was as if I were some buoyant object rising to the surface. It felt natural, as if the realm above is where I belonged and I was slowly returning to it.
 
-They didn't seem to acknowledge me at first, but then one of them seemed to get closer to me. Again, there was no time, so it had always been this close, and with no true distance, "close" isn't quite the word, but that's the sense I had.
+They didn't seem to acknowledge me at first, but then one of them seemed to get closer to me. Again, there was no time, no distance, so it had always been this close. But that's the sense I had.
 
 As I was observing this magnificent, all-encompassing, impossible being, first simply observing the realm below, and then moving closer to me, I had a strange feeling. Some sort of notion, but experienced as a feeling. It was peculiar to me, because ever since I had entered this realm of existence, I had not felt something peculiar.
 
@@ -120,7 +120,7 @@ By willing it, by willing itself to observe me, and me to be observed, the being
 
 Numbers. Two plus two. Two plus two equals three. Then, an endless void. Non-existence. Then, the faces of my grandparents.
 
-It might seem inscrutable to you — it is to me now, if I think about it — but at that moment, I understood, clear as day. "You are mistaken," the being was "saying" to me. "Family" is a human construct. The concept of "family" does not exist. "I am not your grandmother, nor your grandfather. Family is incorrect." But then...
+It might seem inscrutable to you (it is to me now, if I think about it), but at that moment, I understood, clear as day. "You are mistaken," the being was "saying" to me. "Family" is a human construct. The concept of "family" does not exist. "I am not your grandmother, nor your grandfather. Family is incorrect." But then...
 
 "What are you?" I willed. I felt that my communication was a lot more clumsy than the being's. I could not join the threads of meaning the same way that that being did. My communication, while still relatively abstract, was a lot more structured; it followed the patterns of human interaction.
 
@@ -170,7 +170,7 @@ And now, we were the same again.
 
 "If I wish to remain... If I want to be like you... I must first die. That's the choice I have to make." I was absolutely certain this was what it meant, even if it didn't acknowledge my answer. There was no ambiguity, no confusion.
 
-The decoding of the being's message wasn't an active act of effort. It was seamless. Instant. As for the answer... Perhaps it was also instant. Perhaps it took an eternity.
+As for the answer... Perhaps it was instant. Perhaps it took an eternity.
 
 I observed my life again, several times, simultaneously. All the infinite branching paths it could have taken. The ones it took. The paths it would take. And the one path I was familiar with.
 
@@ -180,7 +180,7 @@ I then turned my will to the being, but it already knew. The whole exchange had 
 
 The being did not react, but I suddenly felt I was floating towards it much faster than I was before, as if it were reeling me in. Helping me.
 
-A feeling of strength and determination then took over me. But it was alien. It was coming from the being. It became apparent to me that it was not making me feel strong — it was telling me to be strong.
+A feeling of strength and determination then took over me. But it was alien. It was coming from the being. It became apparent to me that it was not making me feel strong. It was telling me to be strong.
 
 This was it. I was dying. There was so much that I wanted to do, so much that I wanted to achieve back in the realm below... But after having spent an eternity in this in-between realm, after having experienced what it was like to be free from my body, after having a glimpse of what awaited me, I had come to terms with it, and I was ready to let go.
 
@@ -204,7 +204,7 @@ I forced myself to "turn around" to look at whatever was taking hold of me. At f
 
 And that's when I saw it.
 
-My body no longer resembled what I remembered it to be. It didn't look like me anymore. It looked like a writhing mass of... tendrils? Yes, tendrils, or something like a network of throbbing, discolored veins and exposed twitching nerves, all connected to a cancerous lump of flesh. These bizarre appendages were dark, as if covered in tar, and blood.
+My body no longer resembled what I remembered it to be. It didn't look like me anymore. It looked like a writhing mass of... tendrils? Yes, tendrils, or something like a network of throbbing, discolored veins and exposed twitching nerves, all connected to a cancerous lump of flesh. These bizarre appendages were dark, as if covered in tar and blood.
 
 And then I noticed one of the tendrils, thicker than the others, extending across the realms of reality, and reaching all the way up to me, wrapping around me like some sort of grotesque umbilical cord — squeezing me, viscous, wet, pulsating.
 
@@ -223,6 +223,10 @@ I contemplated the creature below with terror.
 There was a long moment in which the concepts the being was forming in my mind floated in my consciousness.
 
 "Parasite."
+
+And I understood. The tendril hadn't found me. It had grown from me. My longing had been feeding it all along.
+
+I had told the being I was ready to let go. I had only told myself.
 
 That's when another realization hit me. The more it expanded, the more the unfamiliar feelings grew. More tendrils shot up from the creature below, pulsating, some pumping something into me, others sucking something out of me with unquenchable thirst.
 
@@ -298,7 +302,7 @@ The three men froze in place and looked at each other, clearly startled. Then th
 
 "It's gonna be OK, bud," said James. "You're in a rough shape right now, but we're gonna take good care of you, alright? You're gonna be fine. Just stay with us."
 
-I was losing consciousness. I hoped and prayed that I would die again, that I would not wake up this time, but when I looked at my body, I saw that the tendrils still holding me firmly in place — I saw the flesh fighting against the damage. And when I looked up, I didn't see the paramedics anymore. Only writhing masses of flesh, pulsating.
+I was losing consciousness. I hoped and prayed that I would die again, that I would not wake up this time, but when I looked at my body, I saw the tendrils still holding me firmly in place — the flesh fighting against the damage. And when I looked up, I didn't see the paramedics anymore. Only writhing masses of flesh, pulsating.
 
 I wondered if they all possessed one of the beings, or just some of them. Or if it was the same being being possessed by all of them. These people were unwittingly fighting to help the parasite that held onto me, to nurse the flesh that imprisoned me back to health, to make it strong so that I could not escape its grip.
 
@@ -318,7 +322,7 @@ And then I passed out.
 
 When I woke up again, I was at the hospital. The doctor that came in told me I had died for 6 minutes, but the paramedics had successfully resuscitated me. He informed me that, luckily, I had not sustained any brain damage, but my body was badly battered. They had performed several surgeries on me, and I would probably need a couple more. I had lost a kidney, my left arm was in really bad shape, and many of my bones were broken, but the doctor said my outlook was good. He said I would live.
 
-But I had a hard time concentrating in what he was saying. All I could see was the writhing lump of flesh and its tendrils, and the being trapped inside. It looked grotesque, obscene. While the doctor was talking, all I could hear was the parasite that possessed the doctor saying to the one that possessed me, "it's okay, he won't get away. Feed."
+But I had a hard time concentrating on what he was saying. All I could see was the writhing lump of flesh and its tendrils, and the being trapped inside. It looked grotesque, obscene. While the doctor was talking, all I could hear was the parasite that possessed the doctor saying to the one that possessed me, "it's okay, he won't get away. Feed."
 
 This is my life now. I try my best to see things normally. If I focus, if I really try, I can ignore what I see for short periods of time. But I just can't help seeing the truth. I can't see people anymore, just endlessly starving flesh, craving parasites, unable to experience anything other than hunger, feeding, feasting on the beings trapped within.
 
@@ -353,6 +357,8 @@ I shudder just to think about it.
 But then again, I feel like I cannot help it. I feel like no matter what I decide, I will still press that button and post it. Because I crave validation. I crave understanding. I crave not feeling alone in what I'm going through.
 
 Craving.
+
+The same thing that caught me up there, dressed up as something small and human. For all I know, it is the one writing this post with my hands.
 
 I have considered ending things, several times, but I'm too much of a coward. I don't think I can go through with it. What if I'm wrong? But then, how do I know all these things that I know?
 
