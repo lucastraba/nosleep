@@ -2,6 +2,10 @@
 
 A beautiful, distraction-free story reader with an IA Writer-inspired dark theme. Perfect for sharing stories with beta readers.
 
+## Where the drafts live
+
+The canonical text and revision history of each story live in the Pandora vault (`Projects/Writing/Various/I Was Dead For 6 Minutes.md`, Pentimento history beside it). `stories/` holds only the published text the site serves; copy a new revision here when publishing.
+
 ## Features
 
 - **IA Writer-inspired design**: Dark theme with beautiful typography
