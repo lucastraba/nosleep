@@ -6,6 +6,16 @@ A beautiful, distraction-free story reader with an IA Writer-inspired dark theme
 
 The canonical text and revision history of each story live in the Pandora vault (`Projects/Writing/Various/I Was Dead For 6 Minutes.md`, Pentimento history beside it). `stories/` holds only the published text the site serves; copy a new revision here when publishing.
 
+The site fetches `stories/<name>.md`, never the root copy. The root `nosleep1.md` once fell two commits behind and nearly got pushed over the newer text, so keep it identical to `stories/nosleep1.md`.
+
+## Revising the stories
+
+- Pentimento lint's register rules are written for plans and memos, not fiction. Ignore any warning whose fix would flatten the story's voice.
+- *I Was Dead For 6 Minutes* (the editing plan is `I Was Dead For 6 Minutes - Revision Plan.md` beside the canonical):
+  - The choice in the in-between realm is real, not fate. Some beings escape; the narrator fails because his leftover craving feeds the parasite.
+  - At the climax, the being's final notion is a key the narrator has forgotten ("It wasn't 'strength' I was urged to have. It was..."). Never spell out the answer ("stop wanting"). The reader can infer it; the narrator can't remember it.
+  - Em-dashes: cut "not X — Y" contrasts and paired parenthetical dashes, which read as AI tells. Keep the uneven dashes in panic and cosmic passages and in stuttered dialogue.
+
 ## Features
 
 - **IA Writer-inspired design**: Dark theme with beautiful typography
